@@ -22,3 +22,9 @@ h2{
 body.fancy{
   background-color:#ffffcc;
 }
+h3{
+  color:#4d0099;
+  background-color:#ffe6f9;
+  font-size:3em;
+  border:2px solid black;
+}
