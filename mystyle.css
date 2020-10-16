@@ -29,5 +29,6 @@ h3{
   border:2px solid black;
 }
 body.subtle{
-  background-color: linear-gradient(to bottom, #ffffcc 0%, #b30000 100%)
+  background-color:#ffffcc;
+  background-image:linear-gradient(to bottom,#ffffcc 0%,#b30000 100%)
 }
