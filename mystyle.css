@@ -30,7 +30,6 @@ h3{
 }
 body.subtle{
   background-color:#ffffcc;
-  background-image:linear-gradient(to bottom,#ffffcc 0%,#b30000 100%);
 }
 body.pretty{
   background-color:#f7e6ff;
