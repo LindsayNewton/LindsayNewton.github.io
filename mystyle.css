@@ -34,3 +34,6 @@ body.subtle{
 body.pretty{
   background-color:#f7e6ff;
 }
+table, th, td {
+  border: 1px solid black;
+}
