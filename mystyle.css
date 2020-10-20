@@ -37,3 +37,8 @@ body.pretty{
 table, th, td {
   border: 1px solid black;
 }
+h4{
+  color:#7a00cc;
+  background-color:#ffe6f9;
+  border:2px solid black;
+}
