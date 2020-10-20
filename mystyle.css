@@ -46,9 +46,13 @@ h4{
 table.awesome{
   background-color:#ffccff;
 }
-p.cool{
+div{
   border:2px solid black;
   color:#8b0000;
+  padding-top:30%;
+  padding-right:30%;
+  padding-bottom:30%;
+  padding-left:40%;
 }
 p.amazing{
   color:#4d0099;
