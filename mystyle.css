@@ -45,3 +45,7 @@ h4{
 table.awesome{
   background-color:#ffccff;
 }
+p.cool{
+  border:2px solid black;
+  color:#8b0000;
+}
