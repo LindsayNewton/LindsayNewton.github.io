@@ -1,12 +1,12 @@
 h1{
   background-color:rgba(255,255,0,0.3);
-  color:#8b0000;
+  color:#ffccff;
   font-size:3em;
   border: 2px solid black;
   text-align:center;
 }
 p.fancy{
-  color:#8b0000;
+  color:#ffccff;
     font-style: oblique;
 }
 li{
