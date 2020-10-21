@@ -59,3 +59,7 @@ p.amazing{
 p.neato{
   color:#e600ac;
 }
+iframe{
+  display:block;
+  margin:0 auto;
+}
