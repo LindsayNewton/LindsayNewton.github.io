@@ -44,7 +44,7 @@ h4{
   border:2px solid black;
 }
 table.awesome{
-  background-color:#ffccff;
+  background-color:#ffe6ff;
 }
 p.cool{
   border:2px solid black;
@@ -66,4 +66,9 @@ iframe{
 img{
   display:block;
   margin:0 auto;
+}
+p.gnarly{
+  border:2px solid black;
+  color:#4d0099;
+  background-color:#ffe6ff;
 }
