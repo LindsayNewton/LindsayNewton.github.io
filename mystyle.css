@@ -80,7 +80,7 @@ p.gnarly{
   width: 33.33%;
   padding: 5px;
 }
-.row::after{
+.clearfix::after{
   content:"";
   clear: both;
   display: table;
